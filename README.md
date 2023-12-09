@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Dominic Farrow </h1>
 <h3 align="center"> Junior Software Developer | Computer Science Graduate | Java, C++, C# </h3>
 
-🔭 I’m currently working on improving my skills in the world of software development.
+🔭 I’m currently working on learning Kotlin and Android development.
 
-👯 I’m looking to collaborate on desktop applications and game development projects.
+👯 I’m looking to collaborate on desktop applications and Android app projects.
 
 🤔 I’m looking for help with contributing to open source projects and understanding large code bases.
 
